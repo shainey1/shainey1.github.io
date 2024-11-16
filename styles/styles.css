@@ -27,7 +27,7 @@ html {
 }
 
 .all-nav-links {
-	display: inline;	
+	display: flex;	
 	
 }
 
