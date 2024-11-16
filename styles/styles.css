@@ -1,0 +1,86 @@
+html {
+	font-size: 20px;
+	font-family: "Blinker", sans-serif;
+	color: #030D54;
+	background-color: #F7EBC8;
+	margin: 0;
+}
+
+.nav-background {
+	background-color: #030D54;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 80px;
+	align-content: center;
+	
+}
+
+.nav-block {
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	width: 100%
+
+}
+
+.nav-links {
+	color: white;
+	font-weight: 800;
+	font-size: 200%;
+	text-decoration: none;
+	margin: 40px;
+
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  width: 20%;
+}
+ 
+p, ul {
+	text-align: center;
+	list-style-type: none;
+}
+
+.linkedin-link {
+	display: block;
+	width: 100%;
+	text-align: center;
+	
+}
+
+ .change-user {
+	display: block;
+	margin: 0 auto;
+ }
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
