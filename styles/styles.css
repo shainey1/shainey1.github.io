@@ -26,6 +26,11 @@ html {
 
 }
 
+.all-nav-links {
+	display: inline;	
+	
+}
+
 .nav-links {
 	color: white;
 	font-weight: 800;
